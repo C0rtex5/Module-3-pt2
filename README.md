@@ -36,11 +36,11 @@
 
 ### Defines the `"location"` of the addon, meaning that we can locate it in the drag menu on the side corner of the 3D Viewport as you can see in the following image example:
 
-![image2](image.png)
+![Captura de tela 2024-02-10 153001](https://github.com/C0rtex5/Module-3-pt2/assets/109745014/a4ff8391-9a70-4b9c-b68c-815fdbc14928)
 
 ### Now the arrow dragged:
 
-![image3](image-1.png)
+![Captura de tela 2024-02-10 153207](https://github.com/C0rtex5/Module-3-pt2/assets/109745014/96b793bd-b899-47f0-a984-2f5a8719b6ef)
 
 ## 8th. Code Line:
 
