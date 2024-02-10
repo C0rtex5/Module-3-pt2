@@ -44,23 +44,23 @@
 
 ## 8th. Code Line:
 
-### 
+### Displays a warning about the alpha development with the message: `"This addon still in it's alpha development."`.
 
 ## 9th. Code Line:
 
-###
+### Opens a commas to an link for my project's wiki page, which will be added soon after the final version release.
 
 ## 10th. Code Line:
 
-###
+### Places an `"Add Mesh"` category and closes the metadata.
 
 ## 11th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 12th. Code Line:
 
-###
+### 
 
 ## 13th. Code Line:
 
