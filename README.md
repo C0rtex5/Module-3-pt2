@@ -36,11 +36,11 @@
 
 ### Defines the `"location"` of the addon, meaning that we can locate it in the drag menu on the side corner of the 3D Viewport as you can see in the following image example:
 
-![alt text](image.png)
+![image2](image.png)
 
 ### Now the arrow dragged:
 
-![alt text](image-1.png)
+![image3](image-1.png)
 
 ## 8th. Code Line:
 
