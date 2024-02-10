@@ -38,7 +38,7 @@
 
 ![Captura de tela 2024-02-10 153001](https://github.com/C0rtex5/Module-3-pt2/assets/109745014/a4ff8391-9a70-4b9c-b68c-815fdbc14928)
 
-### Now the arrow dragged:
+### Now with the arrow dragged:
 
 ![Captura de tela 2024-02-10 153207](https://github.com/C0rtex5/Module-3-pt2/assets/109745014/96b793bd-b899-47f0-a984-2f5a8719b6ef)
 
