@@ -20,17 +20,17 @@
 
 ### The code is just defining the description by the key `"description"`, which is "Blender Object Quick Menu".
 
-## 4th. Code Line:
+## 4th. Code Line: 
 
-###
+### This line defines the author of the addon, which is me, by the code in double commas `"author"`.Precisely, my nick c0rtex.
 
 ## 5th. Code Line:
 
-###
+###  What this whole line does? well... sets the `"version"` key with the value `(0, 0, 1)`, representing the version of the addon, in this case, the version 0.0.1.
 
 ## 6th. Code Line:
 
-###
+###  Here, is the minimum required version for this addon work in Blender, which is defined by value associated with the `"blender"` key, which is `(4, 0, 0)`, indicating that at least version 4.0.0 of Blender is required.
 
 ## 7th. Code Line:
 
