@@ -1,6 +1,6 @@
 # Module-3-pt2 (Advanced Python)
 
-# Prepare a couple of coffees, this gonna be dense.
+# Prepare a couple of coffee, this gonna be dense.
 ***
 > ## Code image:
 
@@ -26,19 +26,25 @@
 
 ## 5th. Code Line:
 
-###  What this whole line does? well... sets the `"version"` key with the value `(0, 0, 1)`, representing the version of the addon, in this case, the version 0.0.1.
+### What this whole line does? well... sets the `"version"` key with the value `(0, 0, 1)`, representing the version of the addon, in this case, the version 0.0.1.
 
 ## 6th. Code Line:
 
-###  Here, is the minimum required version for this addon work in Blender, which is defined by value associated with the `"blender"` key, which is `(4, 0, 0)`, indicating that at least version 4.0.0 of Blender is required.
+### Here, is the minimum required version for this addon work in Blender, which is defined by the value associated with the `"blender"` key, which is `(4, 0, 0)`, indicating that at least version 4.0.0 of Blender is required.
 
 ## 7th. Code Line:
 
-###
+### Defines the `"location"` of the addon, meaning that we can locate it in the drag menu on the side corner of the 3D Viewport as you can see in the following image example:
+
+![alt text](image.png)
+
+### Now the arrow dragged:
+
+![alt text](image-1.png)
 
 ## 8th. Code Line:
 
-###
+### 
 
 ## 9th. Code Line:
 
