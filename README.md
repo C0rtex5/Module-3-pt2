@@ -48,7 +48,7 @@
 
 ## 9th. Code Line:
 
-### Opens a commas to an link for my project's wiki page, which will be added soon after the final version release.
+### Opens a commas to a link for my project's wiki page, which will be added soon after the final version release.
 
 ## 10th. Code Line:
 
