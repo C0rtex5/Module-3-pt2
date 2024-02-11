@@ -64,7 +64,7 @@
 
 ## 13th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 14th. Code Line:
 
@@ -72,7 +72,7 @@
 
 ## 15th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 16th. Code Line:
 
@@ -84,11 +84,11 @@
 
 ## 18th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 19th. Code Line:
 
-###
+### 
 
 ## 20th. Code Line:
 
@@ -96,7 +96,7 @@
 
 ## 21th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 22th. Code Line:
 
@@ -112,7 +112,7 @@
 
 ## 25th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 26th. Code Line:
 
@@ -140,7 +140,7 @@
 
 ## 32th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 33th. Code Line:
 
@@ -152,7 +152,7 @@
 
 ## 35th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 36th. Code Line:
 
@@ -164,7 +164,7 @@
 
 ## 38th. Code Line:
 
-###
+### Empty Code Line.
 
 ## 39th. Code Line:
 
