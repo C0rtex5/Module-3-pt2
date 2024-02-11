@@ -60,7 +60,7 @@
 
 ## 12th. Code Line:
 
-### 
+### This looks simple, but is the core of the code, this imports everything from the Blender API. The codes, the modules, the commands, and everything that would give a lot of work to finish this code, were resolved by just importing the open source code Programming Interface from Blender, which is defined by the code `import bpy` on the code source. I could explain more about this, but it is so dense that deserves his own specific explanation, so I'm just keeping it as a mention for now.
 
 ## 13th. Code Line:
 
