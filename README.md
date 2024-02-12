@@ -68,7 +68,7 @@
 
 ## 14th. Code Line:
 
-###
+### The `class` defines the blueprint for multiple objects, in that case, the class is the `VIEW3D` and `PT` is the `VIEW3D` panel type, and also comes with the name `BOQM`, which is on the label of the addon.
 
 ## 15th. Code Line:
 
@@ -76,7 +76,7 @@
 
 ## 16th. Code Line:
 
-###
+### 
 
 ## 17th. Code Line:
 
