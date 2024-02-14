@@ -1,6 +1,6 @@
 # Module-3-pt2 (Advanced Python)
 
-# Prepare a couple of coffee, this gonna be dense.
+# Prepare a couple of coffees, this gonna be dense.
 ***
 > ## Code image:
 
