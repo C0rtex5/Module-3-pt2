@@ -68,7 +68,11 @@
 
 ## 14th. Code Line:
 
-### The `class` defines the blueprint for multiple objects, in that case, the class is the `VIEW3D` and `PT` is the `VIEW3D` panel type, and also comes with the name `BOQM`, which is on the label of the addon.
+### The `class` defines the blueprint for multiple objects, in that case, the class is the `VIEW3D` and `PT` is the `VIEW3D` panel type, and also comes with the name `BOQM`, which is on the label of the addon. And after that, the `(bpy.types.Panel`):` creates a type, which tells the class something like this:
+
+# "HEY DUDE! You need to call a panel type that calls the bpy module! Just sayin."
+
+### So now the `class` knows that it needs to call the `bpy` module and specifies that it just needed the `type` `Panel`.
 
 ## 15th. Code Line:
 
